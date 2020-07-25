@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Dealer -- SCM (Git, Mercurial) watcher"
+name = "dealer"
+optional = false
+python-versions = "*"
+version = "2.1.0"
+
+[metadata]
+content-hash = "ce67c124b7b006c6a3b3d496e8f195c2cdd28609e9d3df2f76bbd93dd47db52d"
+python-versions = "^3.8"
+
+[metadata.files]
+dealer = [
+    {file = "dealer-2.1.0-py2.py3-none-any.whl", hash = "sha256:0956771907702bf84c39513c5343cca1268ee9858a9fe3635303173114347dcf"},
+    {file = "dealer-2.1.0.tar.gz", hash = "sha256:1929ebb09449b576d4488b1322fabca2ba75c82f602e64c9f0b5ad58bff020c4"},
+]
